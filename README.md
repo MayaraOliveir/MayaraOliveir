@@ -23,6 +23,7 @@
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/>
 </div>
 
 
