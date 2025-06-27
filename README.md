@@ -1,5 +1,5 @@
 # 👩‍💻💻 Mayara Oliveira 💻👩‍💻
-
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – Pontifícia Universidade Católica de Minas Gerais - Puc Minas
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Mayara+de+oliveira;I'm+25+years+old;I'm+studying+Systems+Analysis+and+Development)](https://git.io/typing-svg)
@@ -12,7 +12,8 @@
 ## Tecnologias que estou Aprendendo 🧠
 
 
-<div align="center">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -24,9 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+
 ## Tecnologias que estou Utilizando 🔧
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
