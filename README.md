@@ -2,7 +2,8 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Mayara+de+oliveira;I'm+25+years+old;I'm+studying+Systems+Analysis+and+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Mayara+de+Oliveira;Estudante+de+ADS;Foco+em+desenvolvimento+full-stack;Experiência+em+projetos+de+aprendizado;Buscando+oportunidades+na+área+de+TI)](https://git.io/typing-svg)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara0x01)
 
