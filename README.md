@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+is+Mayara+de+oliveira;I'm+25+years+old;I'm+studying+Systems+Analysis+and+Development)](https://git.io/typing-svg)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mayara_oliv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara0x01)
+
 
 ![Mayara GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaraOliveir&show_icons=true&theme=tokyonight)
  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraOliveir&layout-compact&langs_count=16&theme=dark"/>
