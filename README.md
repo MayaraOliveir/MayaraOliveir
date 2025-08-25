@@ -5,7 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Mayara+de+Oliveira;Estudante+de+ADS;Foco+em+desenvolvimento+full-stack;Experiência+em+projetos+de+aprendizado;Buscando+oportunidades+na+área+de+TI)](https://git.io/typing-svg)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara0x01)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara0x01)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayaraolive00@gmail.com)
+
 
 
 ![Mayara GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaraOliveir&show_icons=true&theme=tokyonight)
