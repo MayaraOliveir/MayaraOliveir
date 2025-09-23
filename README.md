@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayaraoliveiraa)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayaraolive00@gmail.com)
 
-![Imagem 3D SVG](https://gist.githubusercontent.com/MayaraOliveir/d4c3c94bf73cfedb104ac70cd5f2f5ba/raw/65ed06cd048dbc04a1ff4378dca81d0e8422d9e2/Profile3D.svg)
+![Imagem 3D SVG](https://gist.githubusercontent.com/MayaraOliveir/d4c3c94bf73cfedb104ac70cd5f2f5ba/raw/af135216394959a408af36fa91cfab59f669b10e/Profile3D.svg)
 
 
 
