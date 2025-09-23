@@ -7,12 +7,12 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara0x01)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayaraolive00@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayaraoliveiraa)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayaraolive00@gmail.com)
+
+![Imagem 3D SVG](https://gist.githubusercontent.com/MayaraOliveir/d4c3c94bf73cfedb104ac70cd5f2f5ba/raw/65ed06cd048dbc04a1ff4378dca81d0e8422d9e2/Profile3D.svg)
 
 
-
-![Mayara GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaraOliveir&show_icons=true&theme=tokyonight)
- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraOliveir&layout-compact&langs_count=16&theme=dark"/>
 
 ## Tecnologias que estou Aprendendo 🧠
 
