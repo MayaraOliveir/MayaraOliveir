@@ -75,6 +75,7 @@
 
 </div>
 <br>
+<h4 align="center">Estatíticas</h4>
 
 ![Imagem 3D SVG](https://gist.githubusercontent.com/MayaraOliveir/d4c3c94bf73cfedb104ac70cd5f2f5ba/raw/af135216394959a408af36fa91cfab59f669b10e/Profile3D.svg)
 
